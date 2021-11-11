@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning JavaScript、Docker and k8s
+- 📫 How to reach me: 2583021406@qq.com
+
+![look-count](https://komarev.com/ghpvc/?username=onewe&color=green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onewe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Onewe's GitHub stats](https://github-readme-stats.vercel.app/api?username=onewe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
