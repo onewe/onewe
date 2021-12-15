@@ -12,3 +12,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onewe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Onewe's GitHub stats](https://github-readme-stats.vercel.app/api?username=onewe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Onewe's github total](https://github-readme-streak-stats.herokuapp.com/?user=onewe&show_icons=true&theme=radical&cache_seconds=1800&locale=en)](https://onew.me/)
