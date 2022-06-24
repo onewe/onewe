@@ -14,3 +14,6 @@
 [![Onewe's GitHub stats](https://github-readme-stats.vercel.app/api?username=onewe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Onewe's github total](https://github-readme-streak-stats.herokuapp.com/?user=onewe&show_icons=true&theme=radical&cache_seconds=1800&locale=en)](https://onew.me/)
+
+![GitHub Snake dark](./assets/github-contribution-grid-snake.svg)
+![GitHub contrib](./profile-3d-contrib/profile-night-rainbow.svg)
